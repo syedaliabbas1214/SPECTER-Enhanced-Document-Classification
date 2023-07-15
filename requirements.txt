@@ -1,0 +1,18 @@
+# allennlp 0.9 with gradient accumulation and fp16
+-e git+https://github.com/ibeltagy/allennlp@fp16_v0.9.0#egg=allennlp
+
+dill
+jsonlines
+pandas
+sklearn
+tqdm
+fastlangid
+kaggle
+gdown
+datasets
+numpy
+rich
+scikit_learn
+torch
+transformers<4.7, >=4.1
+wandb
