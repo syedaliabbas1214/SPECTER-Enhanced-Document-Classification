@@ -2,7 +2,7 @@
 # SPECTER REVIEW
 This project presents an overview of the paper
 titled ”SPECTER: Document-level Representation Learning using
-Citation-informed Transformers”[1]. The paper introduces
+Citation-informed Transformers”. The paper introduces
 SPECTER, a novel approach for document-level representation
 learning that leverages citation information to enhance the
 performance of transformer-based models. The report provides
