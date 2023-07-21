@@ -15,4 +15,3 @@ classification head on top of SPECTER.
 To run the experiments, follow the SPECTER_project notebook using Google colab.
 
 
-Data is available at the following link:  ([this one](https://drive.google.com/drive/folders/1Tlh55ElWXjtDc5Dsgm8qLhh9BEtEn4sw?usp=share_link) for the data).
